@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.useWebExt": true
+}
